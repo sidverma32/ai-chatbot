@@ -20,9 +20,9 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      title: 'Average Salary ',
+      label: 'Microsoft Software Engineer?',
+      action: 'what is the average salary of software engineer in bangalore?',
     },
     {
       title: 'Write code to',
